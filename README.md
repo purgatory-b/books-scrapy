@@ -12,6 +12,13 @@ This project automates the full scraping workflow, including:
 - Cover image download
 - MySQL database storage
 
+## Highlights
+
+- Built a real-world crawler for structured book metadata collection
+- Combined browser automation and HTML parsing for dynamic pages
+- Integrated CAPTCHA solving into the scraping workflow
+- Designed database insertion flow for scraped records
+
 ## Features
 
 - Automated login with Selenium
@@ -46,8 +53,6 @@ The crawler collects the following book information:
 - Original price
 - Discounted price
 - Specification
-
----
 
 ## Project Structure
 
